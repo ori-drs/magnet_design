@@ -2,7 +2,7 @@
 Design instructions for the ORI Magnet Lidar Mapping device
 
 <p align="center">
-  <img src="./Image/Magnet_CAD.png" width="350"/>
+  <img src="./Image/Magnet_raw.png" width="320"/> <img src="./Image/Magnet_CAD.png" width="350"/>
 </p>
 
 Magnet is a compact, rugged LiDAR mapping unit developed at the Oxford Robotics Institute (ORI) for research into 3D mapping and mobile robot autonomy. It integrates a Hesai QT64 LiDAR, a Microstrain GX5-15 IMU, and an Intel NUC computer, all housed within a modular enclosure. The device is capable of running real-time 3D mapping algorithms and can be mounted on a robot or used as a handheld device.
@@ -52,3 +52,8 @@ This repository contains the STEP files for the CAD models and the corresponding
 - **Input voltage:** 12–19 V  
 - **Maximum power:** 90 W    
   *Note: These values are specific to our physical prototype and may vary depending on the components used in your build.*
+
+## Application Example
+<p align="left">
+  <img src="./Image/Magnet_w_Jackal.png" width="400"/>
+</p>  
