@@ -1,6 +1,10 @@
 # magnet_design
 Design instructions for the ORI Magnet Lidar Mapping device
 
+<p align="center">
+  <img src="./Image/Magnet_CAD.png" width="350"/>
+</p>
+
 Magnet is a compact, rugged LiDAR mapping unit developed at the Oxford Robotics Institute (ORI) for research into 3D mapping and mobile robot autonomy. It integrates a Hesai QT64 LiDAR, a Microstrain GX5-15 IMU, and an Intel NUC computer, all housed within a modular enclosure. The device is capable of running real-time 3D mapping algorithms and can be mounted on a robot or used as a handheld device.
 
 This repository provides the 3D CAD files and basic manufacturing guidance required to reproduce the hardware. Note that Magnet requires additional software to perform 3D mapping or enable autonomy in robotic applications.
@@ -17,10 +21,16 @@ This repository provides the 3D CAD files and basic manufacturing guidance requi
 This repository contains the STEP files for the CAD models and the corresponding STL files for 3D printing.
 
 - **Overall size and weight:** `110 × 110 × 148 mm` (including QT64), `1106 g`
-- **Design files directory:** [`CAD`](./CAD/STEP) and [`CAD/STL`](./CAD/STL)
+- **Design files directory:** [`CAD/STEP`](./CAD/STEP) and [`CAD/STL`](./CAD/STL)
 - **URDF link:** [`magnet_description`](https://github.com/ori-drs/magnet_description)
 
 ## Assembly Notes
+
+<p align="center">
+  <img src="./Image/Magnet_Assembly_Overview.png" width="400"/>
+</p>
+
+
 - **Case:** 3D printed in PLA using a Bambu Lab printer.  
 - **Heatsink:** Cut from a 3 mm aluminium sheet.  
   *Note: A metal sheet is highly recommended to ensure effective heat dissipation during prolonged LiDAR operation*
@@ -31,8 +41,11 @@ This repository contains the STEP files for the CAD models and the corresponding
     *These inserts are used to mount Magnet onto robots or rigs.*
   - **IMU mount:** 2 × M3 × 5.2 mm (unflanged)
 - **Power inlet:** 2.5mm DC Socket (e.g. L712AS)
-- **Wiring logic:**  
-  *(Insert figure here)*  
+- **Wiring logic:**
+  <p align="center">
+     <img src="./Image/Wiring_Logic.png" width="450"/>
+  </p>
+   
   *Note: This is not a schematic diagram. For detailed electronic connections, please refer to the datasheets of the respective components.*
 
 ## Power supply
