@@ -57,7 +57,7 @@ This repository contains the STEP files for the CAD models and the corresponding
 ## Application Example - Wearable Mobile Device
 Magnet can be configured as a portable mapping unit for field data collection. In this setup, the device is mounted on a mounting pole and powered by an external battery pack. This design allows handheld or backpack-based operation for large-scale 3D environment mapping. 
 <p align="center">
-  <img src="./Image/Magnet_Handheld_overview.png" width="400"/>
+  <img src="./Image/Magnet_Handheld_overview.png" width="500"/>
 </p>
 The current wearable configuration developed at ORI consists of:
 
@@ -81,12 +81,5 @@ Magnet can be integrated into a robotic platform for autonomous mapping and navi
 <p align="left">
   <img src="./Image/Magnet_w_Jackal.png" width="400"/>
 </p>  
+
 *Note: It is important to ensure that the electrical specifications of the target platform are compatible with Magnet’s requirements, or else an appropriate regulator or power management module must be added.*
-
-
-=======
-## Application Example
-<p align="left">
-  <img src="./Image/Magnet_w_Jackal.png" width="400"/>
-</p>  
->>>>>>> c7e4b985fbdf5089ad046af39faa3cd652069c09

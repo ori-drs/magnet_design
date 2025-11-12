@@ -2,7 +2,7 @@
 Manufacturing notes for the ORI Magnet Mounting Pole
 
 <p align="center">
-  <img src="./Image/Mounting_Pole_Assembly.png" width="400"/>
+  <img src="../../Image/Mounting_Pole_Assembly.png" width="400"/>
 </p>
 
 This document provides technical guidance for manufacturing the Magnet mounting pole used in field data collection with the ORI Magnet LiDAR mapping device.  
