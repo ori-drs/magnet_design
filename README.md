@@ -53,6 +53,7 @@ This repository contains the STEP files for the CAD models and the corresponding
 - **Maximum power:** 90 W    
   *Note: These values are specific to our physical prototype and may vary depending on the components used in your build.*
 
+<<<<<<< HEAD
 ## Application Example - Wearable Mobile Device
 Magnet can be configured as a portable mapping unit for field data collection. In this setup, the device is mounted on a mounting pole and powered by an external battery pack. This design allows handheld or backpack-based operation for large-scale 3D environment mapping. 
 <p align="center">
@@ -83,3 +84,9 @@ Magnet can be integrated into a robotic platform for autonomous mapping and navi
 *Note: It is important to ensure that the electrical specifications of the target platform are compatible with Magnet’s requirements, or else an appropriate regulator or power management module must be added.*
 
 
+=======
+## Application Example
+<p align="left">
+  <img src="./Image/Magnet_w_Jackal.png" width="400"/>
+</p>  
+>>>>>>> c7e4b985fbdf5089ad046af39faa3cd652069c09
