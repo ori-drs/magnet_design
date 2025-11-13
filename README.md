@@ -64,7 +64,7 @@ The current wearable configuration developed at ORI consists of:
 - **Total height:** 85 cm (pole only) / 100 cm (including Magnet)  
 - **System weight:** ≈ 4 kg (including backpack frame, pole, Magnet, and battery)  
 - **Energy source:** PAG 90 Slim Battery - 90Wh 14.8V nominal 
-- **Design files directory:** [`CAD/Mounting_Pole`](./CAD/Mounting_Pole) with manufacturing notes in [`CAD/Mounting_Pole/Manufacturing_note`](./CAD/Mounting_Pole/Manufacturing_note)
+- **Design files directory:** [`CAD/Mounting_Pole`](./CAD/Mounting_Pole) with manufacturing notes in [`CAD/Mounting_Pole/Manufacturing_note`](./CAD/Mounting_Pole/Manufacturing_note.md)
 
 The Magnet can be attached to the mounting pole using four M4 screws to secure the unit's Tappex mounting points (on the bottom case) to the dedicated holder interface.
 <p align="left">
