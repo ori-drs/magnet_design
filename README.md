@@ -53,7 +53,6 @@ This repository contains the STEP files for the CAD models and the corresponding
 - **Maximum power:** 90 W    
   *Note: These values are specific to our physical prototype and may vary depending on the components used in your build.*
 
-<<<<<<< HEAD
 ## Application Example - Wearable Mobile Device
 Magnet can be configured as a portable mapping unit for field data collection. In this setup, the device is mounted on a mounting pole and powered by an external battery pack. This design allows handheld or backpack-based operation for large-scale 3D environment mapping. 
 <p align="center">
@@ -65,7 +64,7 @@ The current wearable configuration developed at ORI consists of:
 - **Total height:** 85 cm (pole only) / 100 cm (including Magnet)  
 - **System weight:** ≈ 4 kg (including backpack frame, pole, Magnet, and battery)  
 - **Energy source:** PAG 90 Slim Battery - 90Wh 14.8V nominal 
-- **Design files directory:** [`CAD/Mounting_Pole`](./CAD/Mounting_Pole)
+- **Design files directory:** [`CAD/Mounting_Pole`](./CAD/Mounting_Pole) with manufacturing notes in [`CAD/Mounting_Pole/Manufacturing_note`](./CAD/Mounting_Pole/Manufacturing_note)
 
 The Magnet can be attached to the mounting pole using four M4 screws to secure the unit's Tappex mounting points (on the bottom case) to the dedicated holder interface.
 <p align="left">
